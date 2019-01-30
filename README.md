@@ -5,7 +5,7 @@ Tools ini membutuhkan akses root dan sudo
 Jika sudah menginstall sudo lewati langkah ini.
 $ apt update && apt upgrade<br>
 $ pkg install git<br>
-$ git clone https://github.com/st42/termux-sudo<br>
+$ git clone https://gitlab.com/st42/termux-sudo<br>
 $ cd termux-sudo<br>
 $ apt install ncurses-utilsg<br>
 $ cat sudo > /data/data/com.termux/files/usr/bin/sudo<br>
