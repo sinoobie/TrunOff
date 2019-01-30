@@ -2,7 +2,7 @@
 Tools/scrpt/repostory untuk me-restart/shutdown hp kamu<br>
 Tools ini membutuhkan akses root dan sudo
 # Installing Sudo
-Jika sudah menginstall sudo lewati langkah ini.
+Jika sudah menginstall sudo lewati langkah ini.<br>
 $ apt update && apt upgrade<br>
 $ pkg install git<br>
 $ git clone https://gitlab.com/st42/termux-sudo<br>
