@@ -7,7 +7,7 @@ $ apt update && apt upgrade<br>
 $ pkg install git<br>
 $ git clone https://gitlab.com/st42/termux-sudo<br>
 $ cd termux-sudo<br>
-$ apt install ncurses-utilsg<br>
+$ pkg install ncurses-utils<br>
 $ cat sudo > /data/data/com.termux/files/usr/bin/sudo<br>
 $ chmod 700 /data/data/com.termux/files/usr/bin/sudo
 # Installing The Tools
